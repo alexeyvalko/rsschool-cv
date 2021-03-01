@@ -203,7 +203,7 @@ template {
 .container {
   max-width: 1024px;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
 }
 
 .avatar-section {
@@ -238,4 +238,9 @@ template {
   min-height: 100px;
   text-align: center;
   padding: 30px;
+}
+.code {
+  border-left: 2px solid #333;
+  padding: 20px;
+  max-width: 500px;
 }
