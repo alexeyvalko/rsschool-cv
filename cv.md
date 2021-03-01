@@ -1,6 +1,6 @@
 # Alexey Valko
 ## Contact Info
-gomelbox@gmial.com
+My email  <gomelbox@gmial.com>
 # Summary 
 My goal is to become a Frontend developer.
 # Skills
