@@ -82,7 +82,9 @@ sup {
   position: relative;
   vertical-align: baseline;
 }
-
+li {
+  padding: 5px;
+}
 sub {
   bottom: -0.25em;
 }
@@ -240,7 +242,7 @@ template {
   padding: 30px;
 }
 .code {
-  border-left: 2px solid #333;
+  border-left: 4px solid rgb(228, 115, 115);
   padding: 20px;
   max-width: 500px;
   background: rgba(221, 202, 240, 0.267);
